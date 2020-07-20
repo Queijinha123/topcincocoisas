@@ -1,0 +1,56 @@
+﻿<!docktype  html>
+<html>
+	<head>
+		<title> TOP 5 Coisas</title>
+		<meta charset="utf-8">
+	</head>
+	<body 
+		background="img/Cristiano Ronaldo.jpg";
+		background-attachmente:fixed;
+		background-size:100%;
+		background-repeat:no-repeat;
+		background-color:#000;>
+		<center>
+		<font face="EuroRoman"color="white">
+		<h1>TOP 5 Coisas</h1>
+		<hr>
+		<p>
+		<h2>Nesse <u>TOP 5</u> Ilustraremos os indivíduos
+		que se comportam de maneira precipitada durante o ato sexual, indivíduos
+		estes que, se nao se tratarem com especialistas(Clínica Medical Group),
+		nunca serão aptos a fazer uma mulher sentir prazer durante o sexo. Estes indivíduos
+		 são conhecidos como <br><em><u>"OS MAIORES BROXAS DO BRASIL!!!"</u></em>
+		</h2><hr></p>
+		<h1><li><strong>Lista n° 1</strong></li></h1>
+		<h2>
+		<ol><h3>
+			<li>Vinicius Machado</li>
+			<br><img src="img/Vinicius 1.jpg">
+			<hr><br><li>Minicius Vachado</li>
+			<br><img src="img/Vinicius 2.jpg">
+			<hr><br><li>Victilicius Tachado</li>
+			<br><img src="img/Vinicius 3.jpg">
+			<hr><br><li>Dickson Brant</li>
+			<br><img src="img/Dickson.jpg">
+			<hr><br><li>Samir Vitor</li>
+			<br><img src="img/Samir.jpg">			
+</h3>
+			</center>
+		</h2>
+		</ol>
+		<hr>
+		<h2>Cadastre-se para tornar-se um <u>BROXA!!</u></h2>
+		<fieldset>
+		<form>
+		Nome: <input type="text"><br><br>
+		Email: <input type="text"><br><br>
+		Senha: <input type="password"><br><br>
+		<input type="submit"value="Inscrever-me">
+		<input type="reset" value="Limpar">
+		
+		</form>
+		</fieldset>
+		
+		
+	</body>
+</hmtl>
